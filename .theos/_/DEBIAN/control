@@ -1,0 +1,10 @@
+Package: com.greyd00r.mercuryGUI
+Name: Mercury Updater GUI
+Depends: 
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Grayd00r
+Author: Grayd00r
+Section: Utilities
+Version: 0.0.1-945
+Installed-Size: 1076
